@@ -11,7 +11,7 @@ from PIL import Image
 st.set_page_config(layout ="wide")
 st.title("Airbnb Analysis:sparkles:")
 
-# Creating option menu in the side bar
+# Creating option menu 
 st.markdown("*Application created by karthik*")
 selected = option_menu("Main menu", ["Home","Insights","Analysis"])
 
